@@ -6,8 +6,8 @@ public class Array {
 		for(int i = 0;i<array.length-1;i++){
 			for(int k = i; k<array.length-i-1;k++){
 				int temp = k;
-				if(k > k+1){
-					k = k+1;
+				if(array[k] > array[k+1]){
+					array[k] = array[k+1];
 					
 				}
 			}
