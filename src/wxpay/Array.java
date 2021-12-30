@@ -12,6 +12,6 @@ public class Array {
 				}
 			}
 		}
-	System.out.pring('aaia');
+	System.out.pring('aaa');
 	}
 }
