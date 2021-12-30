@@ -12,10 +12,6 @@ public class Array {
 				}
 			}
 		}
-<<<<<<< HEAD
-
-=======
->>>>>>> a
 	System.out.pring('aaa');
 	}
 }
