@@ -12,5 +12,6 @@ public class Array {
 				}
 			}
 		}
+	System.out.pring('a');
 	}
 }
